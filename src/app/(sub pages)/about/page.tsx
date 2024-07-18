@@ -16,7 +16,7 @@ export default function About() {
       </div>
       <div className="relative w-full h-screen flex flex-col items-center justify-center">
         <div className="absolute flex flex-col items-center text-center top-[60%] left-1/2 -translate-y-1 -translate-x-1/2">
-          <h1 className="font-bold text-7xl text-accent w-full text-yellow-400">Yahya Agung</h1>
+          <h1 className="font-bold text-7xl text-accent w-full text-yellow-400">Yahya Agung Nadabunda</h1>
           <p className="font-light text-foreground text-white text-2xl">Meet the wizard behind this portofolio</p>
         </div>
       </div>
