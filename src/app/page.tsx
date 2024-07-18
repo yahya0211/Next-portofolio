@@ -7,7 +7,7 @@ import Navigation from "./components/navigation";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between relative">
+    <main className="w-full fixed top-0 left-0 h-full object-cover object-center z-50 opacity-100 ">
       <Image src={bg} alt="background-image" fill className="w-full h-full object-cover object-center z-100 opacity-90 overflow-hidden" />
       <div className="absolute inset-0 z-10">
         <Navigation />
